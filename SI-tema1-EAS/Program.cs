@@ -10,7 +10,7 @@ namespace SI_tema1_EAS
 {
     class Program
     {
-
+        //git test
         static string[,] state, cypherKey;
 
 
